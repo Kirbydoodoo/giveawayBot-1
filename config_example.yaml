@@ -5,12 +5,12 @@
 ###########################################################
 
 # The access token the bot will use to login to the Discord API
-token: Your Discord Bot Token
+token: NTg5Njc4MjU0OTYxNzIxMzQ0.XQXLlw.bmFP-I5NkGB_Sn7CvIEI0c-BNuk
 # Use this as prefix to command the bot
 prefix: ;
 # Enter here your own discord ID to authorize you as the
 # the admin of the bot
-admin: Your Discord Account ID
+admin: Aye It's Kirby#0001
 # The emote which will be used under the giveaway message to 
 # participate to the giveaway
 emote: ✋
